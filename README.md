@@ -7,4 +7,4 @@ GitHub, let me decide how I want my account secured.
 
 It's just another layer of crap to get logged in.
 
-My projects will upload to Pastebin: https://pastebin.com/u/howtophil
+My projects will upload to Gitlab: https://gitlab.com/arnholm
